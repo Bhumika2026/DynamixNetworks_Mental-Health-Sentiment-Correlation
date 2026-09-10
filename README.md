@@ -1,6 +1,6 @@
 # 🧠 Mental Health Sentiment Correlation
 
-![Mental Health Sentiment Correlation Dashboard](mentaldashboard.PNG)
+![Mental Health Sentiment Correlation Dashboard](./mental%20dashboard.PNG)
 
 ## 📌 Project Overview
 
